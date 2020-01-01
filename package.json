@@ -1,0 +1,21 @@
+{
+  "name": "openlayers-boilerplate",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Dan Clipca",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build --public-url . index.html"
+  },
+  "dependencies": {
+    "ol": "^6.1.1"
+  },
+  "devDependencies": {
+    "@types/ol": "^5.3.6",
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-typescript": "^1.0.0",
+    "typescript": "^3.7.4"
+  }
+}
