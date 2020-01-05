@@ -1,1 +1,0 @@
-# openlayers-typescript-boilerplate
