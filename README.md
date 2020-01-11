@@ -1,7 +1,7 @@
 ### React Native Social Buttons
 
 <p>
-<img src="https://github.com/virtumonde/react-native-social-buttons/blob/master/react-native-social-buttons-preview.png?raw=true" />
+<img src="https://github.com/virtumonde/openlayers-typescript-boilerplate/raw/master/openlayers.png" />
 </p>
 
 
