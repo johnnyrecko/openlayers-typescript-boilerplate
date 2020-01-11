@@ -12,5 +12,8 @@ git clone https://github.com/virtumonde/openlayers-typescript-boilerplate.git
 cd openlayers-typescript-boilerplate
 
 yarn
+
 or
+
 npm install
+```
