@@ -1,4 +1,4 @@
-### React Native Social Buttons
+### React Native Openlayers Typescript Boilerplate
 
 <p>
 <img src="https://github.com/virtumonde/openlayers-typescript-boilerplate/raw/master/openlayers.png" />
@@ -8,29 +8,11 @@
 ## Installation
 
 ```bash
-yarn add react-native-social-buttons
+git clone https://github.com/virtumonde/openlayers-typescript-boilerplate.git
+cd openlayers-typescript-boilerplate
+
+yarn
 
 or
 
-npm install react-native-social-buttons
-```
-
-## Basic Usage
-
-```jsx
-import React from "react";
-import { View } from "react-native";
-import { FacebookSocialButton } from "react-native-social-buttons";
-
-export default class App extends React.Component {
-  render() {
-    return (
-      <View>
-        <FacebookSocialButton onPress={() => {}} buttonViewStyle={...} logoStyle={...} textStyle={...} />
-      </View>
-    );
-  }
-}
-```
-
-You can costumize the buttons using buttonViewStyle={...}, logoStyle={...} and textStyle={...}
+npm install
